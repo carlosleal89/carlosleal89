@@ -1,4 +1,6 @@
-### Hi there 👋
+Hi there. I'm Carlos! 👋
+
+Estou em processo de transição de carreira e atualmente estou cursando Desenvolvimento Web na Trybe. Estou no módulo de front-end, onde aprendo e desenvolvo projetos individuais e em grupo, usando diversas tecnologias como HTML, CSS, JavaScript, REACT, Redux e Jest.
 
 <!--
 **carlosleal89/carlosleal89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
