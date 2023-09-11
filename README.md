@@ -4,6 +4,8 @@ Atualmente estou em processo de transição de carreira, concentrando meus estud
 
 Já trabalhei na área de tecnologia, o que me proporcionou uma base sólida para a transição de carreira. Minha experiência mais recente foi como barbeiro, durante os últimos 6 anos. Nesse periodo pude desenvolver habilidades valiosas, como comunicação, gerenciamento de tempo, trabalho em equipe e liderança. 
 
+Meu email para contato é carlos.frleal@gmail.com
+
 
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
 <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
