@@ -6,6 +6,8 @@ Já trabalhei na área de tecnologia, o que me proporcionou uma base sólida par
 
 Meu email para contato é carlos.frleal@gmail.com
 
+Acesse meu portfólio pelo link <href src="https://carlosleal.vercel.app/">https://carlosleal.vercel.app/</href>
+
 
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
 <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
