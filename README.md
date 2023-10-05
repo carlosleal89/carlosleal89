@@ -1,10 +1,8 @@
 Hi there. I'm Carlos! 👋
 
-Atualmente estou em processo de transição de carreira, concentrando meus estudos em JavaScript, React, testes unitários e de integração, Node.js, Express, Docker, SQL, ORM, API REST e TypeScript. Além das habilidades técnicas, também estou em busca do desenvolvimento de habilidades interpessoais e da adoção de metodologias ágeis, uma vez que reconheço a importância fundamental desses aspectos para um ambiente de trabalho eficaz e uma colaboração de equipe bem-sucedida.
+Desenvolvedor Web full-stack formado pela Trybe.
 
-Já trabalhei na área de tecnologia, o que me proporcionou uma base sólida para a transição de carreira. Minha experiência mais recente foi como barbeiro, durante os últimos 6 anos. Nesse periodo pude desenvolver habilidades valiosas, como comunicação, gerenciamento de tempo, trabalho em equipe e liderança. 
-
-Meu email para contato é carlos.frleal@gmail.com
+Meu email para contato é carlos.frleal@gmail.com.
 
 Acesse meu portfólio pelo link <href src="https://carlosleal.vercel.app/">https://carlosleal.vercel.app/</href>
 
