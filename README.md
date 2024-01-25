@@ -1,6 +1,6 @@
 Hi there. I'm Carlos! 👋
 
-Desenvolvedor Web full-stack formado pela Trybe.
+Desenvolvedor Web full-stack.
 
 Meu email para contato é carlos.frleal@gmail.com.
 
