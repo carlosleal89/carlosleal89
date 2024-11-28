@@ -1,6 +1,6 @@
 Hi there. I'm Carlos! 👋
 
-Desenvolvedor estagiário de frontend na Avanti.
+Estagiário de frontend na Avanti.
 
 Meu email para contato é carlos.frleal@gmail.com.
 
